@@ -7,6 +7,7 @@ import SideDrawer from './SideDrawer';
 import NavLinks from "./NavLinks";
 import Backdrop from "../UIElements/Backdrop";
 
+// State management for drawer button.
 const MainNavigation = () => {
   const [drawerIsOpen, setDrawerIsOpen] = useState(false);
 
@@ -18,7 +19,10 @@ const MainNavigation = () => {
   }
   return (
     <React.Fragment>
+      
+      {/* This is the code for drawer button for the navigation on small screens */}
 
+      {/* If drawer is open then the <Backdrop/> is rendered */}
       {drawerIsOpen && <Backdrop onClick={closeDrawer}/>}
 
       { drawerIsOpen &&

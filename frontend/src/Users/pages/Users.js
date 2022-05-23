@@ -3,6 +3,8 @@ import UserList from "../components/UserList"
 
 function Users() {
 
+  // This is a dummy data, later these data will be fetched from Mongodb database.
+
     const USERS = [
         {
             id:"u1",

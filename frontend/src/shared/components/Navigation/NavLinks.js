@@ -6,6 +6,9 @@ import "./NavLinks.css"
 const NavLinks = () => {
   return (
     <ul className="nav-links">
+
+            {/* The routes are fake/dummy later these will be replaced based on the data fetched by Mongodb database */}
+
         <li>
             <NavLink to="/" end>ALL USERS</NavLink>
         </li>
