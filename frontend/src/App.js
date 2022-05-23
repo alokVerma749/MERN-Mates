@@ -10,10 +10,14 @@ function App() {
       <MainNavigation/>
       <main>
       <Routes>
+
+        {/* // More Routes are yet to be added */}
         <Route path="/" element={ <Users/> } />
         <Route path="/places/new" element={<NewPost/>}/>
-        <Route path="*" element={ <Navigate to="/" replace />} 
-        />
+
+        {/* If no route matched the it will be redirected to the home route */}
+        {/* Note: react-router-dom @v6 is used in this prooject */}
+        <Route path="*" element={ <Navigate to="/" replace />} />
       </Routes>
       </main>
     </Router>
