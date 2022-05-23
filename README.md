@@ -39,7 +39,11 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](https://github.com/alokVerma749/MERN-Mates/blob/master/readme-imges/MERN-Mates.png)
+<!-- ![Screen Shot](https://github.com/alokVerma749/MERN-Mates/blob/master/readme-imges/Screen%20Shot%202022-05-23%20at%2022.58.59.png)
+![Screen Shot](https://github.com/alokVerma749/MERN-Mates/blob/master/readme-imges/Screen%20Shot%202022-05-23%20at%2022.59.45.png) -->
+<img src="https://github.com/alokVerma749/MERN-Mates/blob/master/readme-imges/Screen%20Shot%202022-05-23%20at%2022.58.59.png" width="fit-content" height="500"/>
+<img src="https://github.com/alokVerma749/MERN-Mates/blob/master/readme-imges/Screen%20Shot%202022-05-23%20at%2022.59.45.png" width="fit-content" height="500" />
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
@@ -87,14 +91,18 @@ This is an example of how to list things you need to use the software and how to
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
 ```
+3.cd to frontend folder
 
-3. Install NPM packages
+```sh
+cd frontend
+```
+4. Install NPM packages
 
 ```sh
 npm install
 ```
 
-4. Run the app on your local machine
+5. Run the app on your local machine
 
 ```sh
 npm start
