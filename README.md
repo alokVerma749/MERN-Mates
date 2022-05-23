@@ -39,7 +39,11 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](https://github.com/alokVerma749/MERN-Mates/blob/master/readme-imges/MERN-Mates.png)
+<!-- ![Screen Shot](https://github.com/alokVerma749/MERN-Mates/blob/master/readme-imges/Screen%20Shot%202022-05-23%20at%2022.58.59.png)
+![Screen Shot](https://github.com/alokVerma749/MERN-Mates/blob/master/readme-imges/Screen%20Shot%202022-05-23%20at%2022.59.45.png) -->
+<img src="https://github.com/alokVerma749/MERN-Mates/blob/master/readme-imges/Screen%20Shot%202022-05-23%20at%2022.58.59.png" width="fit-content" height="500"/>
+<img src="https://github.com/alokVerma749/MERN-Mates/blob/master/readme-imges/Screen%20Shot%202022-05-23%20at%2022.59.45.png" width="fit-content" height="500" />
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
