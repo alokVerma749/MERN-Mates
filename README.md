@@ -87,14 +87,18 @@ This is an example of how to list things you need to use the software and how to
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
 ```
+3.cd to frontend folder
 
-3. Install NPM packages
+```sh
+cd frontend
+```
+4. Install NPM packages
 
 ```sh
 npm install
 ```
 
-4. Run the app on your local machine
+5. Run the app on your local machine
 
 ```sh
 npm start
