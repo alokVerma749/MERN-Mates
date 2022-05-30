@@ -40,7 +40,11 @@ const MainNavigation = () => {
         </button>
         <h1 className="main-navigation__title">
           <Link to="/">
-            <img src={"/logo.png"} alt="logo" />
+            <img
+              className="main-navigation__logo"
+              src={"/logo.png"}
+              alt="logo"
+            />
           </Link>
         </h1>
         <nav className="main-navigation__header-nav">
