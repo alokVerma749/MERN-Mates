@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-  <a href="https://github.com/ MERN-Mates/alokVerma749 / MERN-Mates Public">
+  <a href="https://github.com/alokVerma749/MERN-Mates/MERN-Mates.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
