@@ -20,6 +20,10 @@
 .main-navigation__title {
     color: white;
 }
+.main-navigation__logo{
+    padding: 10px;
+    width: 80px;
+}
 
 .main-navigation__title a {
     text-decoration: none;
